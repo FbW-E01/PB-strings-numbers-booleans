@@ -16,13 +16,13 @@ Exercises to become familiar with data types.
 
 5. Declare a variable called year and assign a number as a value. 
 
-6. With your declared variables, print the following: "/name/ is /age/ in /year/". 
+6. Print the following: "*name* is *age* in *year*", using your declared variables. 
 
 7. Declare a variable called isMarried and assign a boolean value. 
 
-8. With your declared variables, print the following "/name/ is married: true/false". 
+8. Print the following "*name* is married: true/false", using your declared variables.
 
-9. Declare a variable called programmingLanguage and assign the string "JavaScript". Declare a variable called isFun and give it a value of true.  Print "JavaScript is fun: true" to the console. 
+9. Declare a variable called programmingLanguage and assign the string "JavaScript". Declare a variable called isFun and give it a value of true.  Print "JavaScript is fun: true" to the console, using your declared variables. 
 
 10. Print the J and S of JavaScript from the variable programmingLanguage to the console. 
 
