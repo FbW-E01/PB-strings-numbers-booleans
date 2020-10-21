@@ -1,4 +1,4 @@
-# Programming Basics: Data Types Exercises Part 1
+# Programming Basics: Strings, Numbers and Booleans
 
 **Strings, Numbers, Booleans**
 
